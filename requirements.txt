@@ -3,3 +3,4 @@ MySQL-python
 numpy
 msgpack-python
 pycrypto==2.6
+cairo
